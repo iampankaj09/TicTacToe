@@ -31,13 +31,13 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.5);
     font-size: 8vmin;
-    color: brown;
+    color: yellow;
 }
 #reset-button{
     padding: 1rem;
     font-size: 1.5rem;
     background-color: black;
-    color: aliceblue;
+    color: pink;
     border-radius: 1rem;
     border: none;
 }
